@@ -1,6 +1,5 @@
-![Welcome to my GitHub](https://github.com/sakr-ali/sakr-ali/blob/trunk/welcome.gif)
-
-
+![Welcome to my GitHub](https://raw.githubusercontent.com/sakr-ali/sakr-ali/main/welcome.gif)
+ 
 ---
 
 ## 👋 من أنا  
