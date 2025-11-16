@@ -1,6 +1,5 @@
-<h1 align="center">
-✨ WELCOME TO MY GITHUB SAKR-ALI ✨
-</h1>
+![Welcome to my GitHub](https://github.com/sakr-ali/sakr-ali/welcome.gif)
+
 
 ---
 
