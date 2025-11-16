@@ -1,4 +1,4 @@
-![Welcome to my GitHub](https://github.com/sakr-ali/sakr-ali/welcome.gif)
+![Welcome to my GitHub](https://github.com/sakr-ali/sakr-ali/blob/trunk/welcome.gif)
 
 
 ---
